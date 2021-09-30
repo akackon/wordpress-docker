@@ -1,3 +1,7 @@
+> *Optional*: Fork this repository.
+
+> *Clone this repository*
+
 # Quick Reference
 - Maintained by: [The Docker Community](https://github.com/docker-library/wordpress)
 - Where to get help: [the Docker Community Forums](https://forums.docker.com/),[the Docker Community Slack](https://dockercommunity.slack.com/signup#/domain-signup), or [Stack Overflow](https://stackoverflow.com/questions/tagged/docker).
