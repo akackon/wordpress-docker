@@ -13,6 +13,10 @@ WordPress is a free and open source blogging tool and a content management syste
 More at: [Wikipedia- Wordpress](https://en.wikipedia.org/wiki/WordPress)
 
 ## How to Use this Image
-1.  ```docker-compose up```
+1.  Run the following code in your terminal ```docker-compose up```
 1. After containers are created, access [Wordpress Dashboard](http://localhost:8000/wp-admin/) from your browser at [http://localhost:8000/wp-admin/](http://localhost:8000/wp-admin/) or at any other port you might have set it up to.
 1. Set up your credentials and you are good to go.
+
+
+## Troubleshoot
+1. If you get permission errors when installing the theme, follow the instructions on [Fixing File Permissions in Wordpress Instructions](https://www.ostraining.com/blog/wordpress/file-permissions/) or run the following in your terminal ```sudo chown -R www-data:www-data /var/www```
