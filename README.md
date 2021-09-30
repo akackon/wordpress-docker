@@ -15,3 +15,4 @@ More at: [Wikipedia- Wordpress](https://en.wikipedia.org/wiki/WordPress)
 ## How to Use this Image
 1.  ```docker-compose up```
 1. After containers are created, access [Wordpress Dashboard](http://localhost:8000/wp-admin/) from your browser at [http://localhost:8000/wp-admin/](http://localhost:8000/wp-admin/) or at any other port you might have set it up to.
+1. Set up your credentials and you are good to go.
